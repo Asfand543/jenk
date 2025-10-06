@@ -1,0 +1,11 @@
+{
+  "name": "jenk-project",
+  "version": "1.0.0",
+  "description": "Sample Node.js project for Jenkins pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "Asfand543",
+  "license": "MIT"
+}
